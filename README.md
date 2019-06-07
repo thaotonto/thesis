@@ -39,8 +39,9 @@ Clone this repo
 git clone https://github.com/thaotonto/thesis.git
 ```
 
-download trained weight [here](https://drive.google.com/open?id=1iWgwIc23nIIFyC0WPS_asPZ6GCBVJqXM) and extract it to `darkflow/`
+download trained weight of tiny yolo voc model [here](https://github.com/thaotonto/thesis/blob/master/bin/tiny-yolo-voc.weights) and extract it to `darkflow/bin`
 
+download trained plate detection model [here](https://drive.google.com/drive/folders/1pwpOuz16cVMkZAJ9QRjOl2_ZUQqyvtiV) and extract it to `thesis` directory
 ## Run the system
 make sure you have a webcam on you laptop/computer
 

@@ -35,7 +35,7 @@ last_sent_plate = None
 options = {
     'model': 'cfg/tiny-yolo-voc-1c.cfg',
     'threshold': 0.3,
-    'load': 750
+    'load': 1500
 }
 
 
